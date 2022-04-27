@@ -2,15 +2,39 @@ import java.util.Scanner;
 
 public class Main {
 
+
     /**
      * The method change the balance of the given account according to an operation.
+     *
      * @param account
      * @param operation
      * @return true if the balance has changed, otherwise - false.
      */
     public static boolean changeBalance(Account account, Operation operation, Long sum) {
         // write your implementation here
+        boolean value = false;
+
+        switch (operation) {
+            case DEPOSIT:
+                account.setBalance(account.getBalance() + sum);
+                value = true;
+                break;
+            case WITHDRAW:
+                if (sum <= account.getBalance()) {
+                    account.setBalance(account.getBalance() - sum);
+                    value = true;
+
+                } else {
+                    System.out.println("Not enough money to withdraw.");
+
+                }
+                break;
+            default:
+                break;
+        }
+        return value;
     }
+
 
     /* Do not change code below */
     enum Operation {

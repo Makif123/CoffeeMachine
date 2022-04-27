@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38cbf79e-83e4-417a-b12d-20a409fce083" name="Changes" comment="STAGE6/6 of coffeeMachine project" />
+    <list default="true" id="38cbf79e-83e4-417a-b12d-20a409fce083" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Directions/Coffee_Machine.Topics-Fields_and_methods_in_enum-Directions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Directions/Coffee_Machine.Topics-Fields_and_methods_in_enum-Directions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Directions/Coffee_Machine.Topics-Fields_and_methods_in_enum-Directions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Elements of enum/Coffee_Machine.Topics-Fields_and_methods_in_enum-Elements_of_enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Elements of enum/Coffee_Machine.Topics-Fields_and_methods_in_enum-Elements_of_enum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Elements of enum/Coffee_Machine.Topics-Fields_and_methods_in_enum-Elements_of_enum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Months/Coffee_Machine.Topics-Fields_and_methods_in_enum-Months.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Months/Coffee_Machine.Topics-Fields_and_methods_in_enum-Months.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Months/Coffee_Machine.Topics-Fields_and_methods_in_enum-Months.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Planets of the solar system/Coffee_Machine.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Planets of the solar system/Coffee_Machine.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Planets of the solar system/Coffee_Machine.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Robot control/Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Robot control/Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Fields and methods in enum/Robot control/Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Fields and methods in enum/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Fields and methods in enum/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +64,7 @@
         <entry key="$PROJECT_DIR$/.." value="newandclean" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,29 +82,37 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "show.inlinked.gradle.project.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.akif">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" />
+  <component name="RunManager" selected="Application.Direction">
+    <configuration name="DangerLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DangerLevel" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" />
+    <configuration name="Direction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Direction" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Physics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Physics" />
-      <module name="Coffee_Machine.Topics-Objects-Army.main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Balance_management.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Month" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,20 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="akif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="akif" />
-      <module name="Coffee_Machine.Topics-Enums_in_Java-Currencies.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Direction" />
+        <item itemvalue="Application.Month" />
+        <item itemvalue="Application.DangerLevel" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.TimeConstantsDemo" />
-        <item itemvalue="Application.Physics" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.akif" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +157,7 @@
       <workItem from="1650407758789" duration="22000" />
       <workItem from="1650497364968" duration="2541000" />
       <workItem from="1650500019367" duration="3744000" />
-      <workItem from="1650998742072" duration="218000" />
+      <workItem from="1650998742072" duration="13969000" />
     </task>
     <task id="LOCAL-00001" summary="Third stage">
       <created>1649885244395</created>
@@ -175,7 +212,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -187,7 +236,8 @@
     <MESSAGE value="ThirdStage2" />
     <MESSAGE value="changing" />
     <MESSAGE value="STAGE6/6 of coffeeMachine project" />
-    <option name="LAST_COMMIT_MESSAGE" value="STAGE6/6 of coffeeMachine project" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -196,6 +246,11 @@
           <url>file://$PROJECT_DIR$/Topics/Constructor/User/src/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management/src/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
